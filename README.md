@@ -1,12 +1,12 @@
 # CMPE--256_Project
 
-### HappyDB: Work-Life Balance during COVID19 Pandemic :mask:
+### **HappyDB: Work-Life Balance during COVID19 Pandemic** :mask:
 This project describes HappyDB and its properties and outlines several important NLP problems that
 can be studied with the help of the corpus. Additionally, this paper tries to incorporate the dataset as a reference for
 Work-Life-Balance in the time of a pandemic as COVID19. Our results demonstrate the need for deeper
 NLP techniques to be developed which makes HappyDB an exciting resource for follow-on research
 
-### Directory Structure
+### **Directory Structure**
 ```
 ├── ProjectReport.pdf
 ├── README.md
@@ -23,14 +23,14 @@ NLP techniques to be developed which makes HappyDB an exciting resource for foll
     └── Source_Dataset_information.ipynb
 ```
 
-### References
+### **References**
 ```
 Akari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei Lopatenko, 
 Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan, Yinzhan Xu, 
 ``HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments'', LREC '18, May 2018. (to appear)
 ```
 
-### Team :octocat:
+### **Team** :octocat:
 * [Gayathri Ganesh](https://github.com/gayathrig269)
 * [Osama Soliman](https://github.com/osamamohamedsoliman)
 * [Ausaf Ahmed](https://github.com/ausafaq)
