@@ -1,4 +1,4 @@
-# CMPE--256_Project
+# CMPE--256_Project - Work-Life Balance during COVID19 Pandemic
 
 ### **HappyDB: Work-Life Balance during COVID19 Pandemic** :mask:
 This project describes HappyDB and its properties and outlines several important NLP problems that
